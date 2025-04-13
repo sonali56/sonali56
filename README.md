@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonali56&label=Profile%20views&color=0e75b6&style=flat" alt="sonali56" /> </p>
 
-- 🔭 I’m currently working on **DatingApp**
+- 🔭 I’m currently working on **Angular website for a business providing secreterial services**
 
-- 🌱 I’m currently learning **Microsoft Azure**
+- 🌱 I’m currently learning **Github Copilot**
 
 - 📫 How to reach me **dholamsonali56@gmail.com**
 
